@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yousef Ibrahim Ismail</h1>
-<h3 align="center">A passionate Junior (trainee) Full Stack Web Developer from Egypt</h3>
+<h3 align="center">A passionate Junior (trainee) Full Stack Web Developer with skills in Android Development from Egypt</h3>
 <img  align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif">
 
-- 🙋🏻 I'm very passionate about coding and I started learning Web Development as a motivated self-tought programmer 
+- 🙋🏻 I'm very passionate about coding and I started learning Web Development and Android Mobile Development as a motivated self-taught programmer 
 
 - 🔭 I’m currently working on **Building a Responsive Website using all the tools I am learning**
 
-- 🌱 I’m currently learning **HTML5, CSS, JavaScript, React, MySQL, PHP, Nodejs, Android, and Java (everything 😂)**
+- 🌱 I’m currently learning **HTML5, CSS, JavaScript, MySQL, Android, and Java **
 
 - 👯 I’m looking to collaborate on **Developing next generation websites and mobile apps**
 
