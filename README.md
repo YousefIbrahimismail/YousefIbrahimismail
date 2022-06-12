@@ -3,7 +3,7 @@
 <img  align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif">
 
-- 🙋🏻 I'm very passionate about coding and I started learning Web Development and Android Mobile Development as a motivated self-taught programmer 
+- 🙋🏻 I'm very passionate about code and I started learning Web Development and Android Mobile Development as a motivated self-taught programmer 
 
 - 🔭 I’m currently working on **Building a Responsive Website using all the tools I am learning**
 
