@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yousef Ibrahim Ismail</h1>
+<h1 align="center">Hi, I'm Yousef Ibrahim Ismail</h1>
 <h3 align="center">A passionate Junior (trainee) Full Stack Web Developer with skills in Android Development </h3>
 <img  align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif">
