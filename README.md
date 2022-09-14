@@ -3,17 +3,17 @@
 <img  align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif">
 
-- 🙋🏻 I'm very passionate about coding and I have started learning Web Development and Android Mobile Development as a motivated self-taught programmer 
+- 🙋🏻 I'm very passionate about coding and I have started learning Web Development and Android Mobile Development as a motivated self-taught programmer in 2020
+
+- 🧑🏻‍🎓 I am currently a student in **Holberton** Coding Virtual School through ALX academy Software Engineering program
 
 - 🔭 I’m currently working on **Building a Responsive Website using all the tools I am learning**
 
-- 🌱 I’m currently learning **HTML5, CSS, JavaScript, MySQL, Android, and Java **
+- 🌱 I’m currently learning **HTML5, CSS, JavaScript, C, Android Dev, and Java **
 
 - 👯 I’m looking to collaborate on **Developing next generation websites and mobile apps**
 
 - 🤝 I’m looking for help with **Web Development Basics**
-
-- 💬 Ask me about **HTML5,and CSS.**
 
 - 📫 How to reach me **yousef_i44@protonmail.com**
 
