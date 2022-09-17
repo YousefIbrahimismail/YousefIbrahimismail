@@ -9,7 +9,7 @@ src="https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gi
 
 - 🔭 I’m currently working on **Building a Responsive Website using all the tools I am learning**
 
-- 🌱 I’m currently learning **HTML5, CSS, JavaScript, C, Android Dev, and Java **
+- 🌱 I’m currently learning **HTML5, CSS, JavaScript, C, Android Dev, and Java**
 
 - 👯 I’m looking to collaborate on **Developing next generation websites and mobile apps**
 
