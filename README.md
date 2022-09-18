@@ -23,7 +23,6 @@ src="https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gi
 ### Connect with me: 
 yousef_i44@protonmail.com 📫
 
-alt="https://www.hackerrank.com/yousef_i44" height="30" width="40" /></a>
 <hr>
 
 <h3 align="left">Languages and Tools:</h3>
