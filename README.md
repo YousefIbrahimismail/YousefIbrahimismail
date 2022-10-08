@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Yousef Ibrahim Ismail (Joseph) </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20F7DA&width=444&height=54&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Yousef+Ismail" /></a>
+
+<h1 align="center"> Yousef Ibrahim Ismail (Joseph) </h1>
 <h3 align="center">A passionate Junior (trainee) Full Stack Web Developer with skills in Android Development </h3>
 <img  align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif">
