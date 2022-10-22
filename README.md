@@ -1,21 +1,18 @@
 <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20F7DA&width=444&height=54&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Yousef+Ismail" /></a>
 
-<h1 align="center"> Yousef Ibrahim Ismail (Joseph) </h1>
-<h3 align="center">A passionate Junior (trainee) Full Stack Web Developer with skills in Android Development </h3>
+<h1 align="center"> Yousef Ibrahim Ismail </h1>
+<h1 align="center"> (Joseph) </h1>
+<h3 align="center">A passionate Full Stack Web Developepment Student </h3>
 <img  align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif">
 
-- 🙋🏻 I'm very passionate about coding and I have started learning Web Development and Android Mobile Development as a motivated self-taught programmer in 2020.
+- 🙋🏻 I'm very passionate about coding and I am learning Web Development as a motivated self-taught programmer since 2021.
 
 - 🧑🏻‍🎓 I am currently a student in **Holberton** Coding Virtual School through ALX academy Software Engineering program
 
-- 🔭 I’m currently working on **Building a Responsive Website using all the tools I am learning**
-
-- 🌱 I’m currently learning **HTML5, CSS, JavaScript, C, Android Dev, and Java**
+- 🌱 I’m currently learning **HTML5, CSS, JavaScript, C, and Java**
 
 - 👯 I’m looking to collaborate on **Developing next generation websites and mobile apps**
-
-- 🤝 I’m looking for help with **Web Development Basics**
 
 - 📫 How to reach me **yousef_i44@protonmail.com**
 
