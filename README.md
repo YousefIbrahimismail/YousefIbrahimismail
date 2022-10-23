@@ -1,8 +1,9 @@
 <p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=500&color=20F7DD&background=090B0A00&center=true&multiline=true&width=450&height=65&lines=Welcome+to+my+GitHub+Profile!+;Hi+I+am+Yousef+Ismail+" alt="Typing SVG" /></a>
 </p>
 
-<h1 align="center"> Yousef Ibrahim Ismail </h1>
-<h1 align="center"> (Joseph) </h1>
+<!-- <h1 align="center"> Yousef Ibrahim Ismail </h1> <!-- Name Header -->
+<!-- <h1 align="center"> (Joseph) </h1> --><!-- Nicknamne Header -->
+***
 <h3 align="center">A passionate Full Stack Web Developepment Student </h3>
 <img  align="right" alt="Coding" width="400"
 src="https://cdn.dribbble.com/users/192847/screenshots/3930313/writer-at-work.gif">
