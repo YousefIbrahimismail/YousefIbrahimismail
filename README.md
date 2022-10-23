@@ -1,4 +1,5 @@
-<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20F7DA&width=444&height=54&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Yousef+Ismail" /></a>
+<p align="center"><a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=4000&pause=500&color=20F7DD&background=090B0A00&center=true&multiline=true&width=450&height=65&lines=Welcome+to+my+GitHub+Profile!+;Hi+I+am+Yousef+Ismail+" alt="Typing SVG" /></a>
+</p>
 
 <h1 align="center"> Yousef Ibrahim Ismail </h1>
 <h1 align="center"> (Joseph) </h1>
